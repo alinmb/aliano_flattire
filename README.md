@@ -2,7 +2,7 @@
 
 ![Bannière du script aliano_reception |690x388](https://i.ibb.co/bjKjYNxZ/aliano-flatttire-miniature.png)
 
-A FiveM resource that allows players to slash vehicle tires using melee weapons. Fully synchronized and optimized for RP servers.
+A 100% standalone FiveM script that allows players to slash vehicle tires using melee weapons. Fully synchronized and optimized for RP servers.
 
 ## Features
 
@@ -35,7 +35,7 @@ A FiveM resource that allows players to slash vehicle tires using melee weapons.
 
 ## Dependencies
 
-- [ox_inventory](https://github.com/overextended/ox_inventory)
+- None
 
 ## My Other Releases
 
@@ -62,7 +62,7 @@ A FiveM resource that allows players to slash vehicle tires using melee weapons.
 | Code is accessible    | Partially Escrowed, config.lua available to configure everything |
 | Subscription-based    | No                                                               |
 | Lines (approximately) | 250~                                                             |
-| Requirements          | Ox Inventory                                                     |
+| Requirements          | None                                                             |
 | Support               | Yes                                                              |
 
 ---

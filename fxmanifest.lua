@@ -20,10 +20,6 @@ client_scripts {
 
 server_script 'server.lua'
 
-dependencies {
-    'ox_inventory'
-}
-
 escrow_ignore {
   'config.lua',
   'README.md',
